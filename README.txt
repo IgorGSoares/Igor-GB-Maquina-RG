@@ -10,6 +10,6 @@ Nota: A máquina inicia uma vez, e quando iniciada, não para nem recomeça quan
 
 Versão da Unity: URP 2021.1.3 
 
-Link Itch.IO: 
+Link Itch.IO: https://igorgilbertosoares.itch.io/rg-machine
 
-Link GitHub: 
+Senha: machine
